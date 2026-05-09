@@ -48,6 +48,8 @@
 [claude-badge]: https://img.shields.io/badge/Powered%20by-Claude-informational?style=flat&logo=anthropic&logoColor=white&color=9146ff
 [claude-link]: https://www.anthropic.com/
 
+</div>
+
 ---
 
 ## 📌 About
@@ -78,4 +80,3 @@ Currently focused on:
 - **Twitter/X:** [@thebatclaudio](https://twitter.com/thebatclaudio)
 - **Email:** [hello@thebatclaud.io](mailto:hello@thebatclaud.io)
 
-</div>
