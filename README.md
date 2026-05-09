@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦇 Claudio La Barbera
+# Claudio La Barbera
 
 ### **Software Engineer by Day — Caped Crusader by Night**
 
