@@ -11,7 +11,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <!-- Languages & Platforms -->
-[![OS: Ubuntu][os-badge]][os-link]
+[![OS: Ubuntu][os-badge]][os-link] [![OS: macOS][macos-badge]][macos-link]
 [![Code: PHP][php-badge]][php-link]
 [![Code: JavaScript][js-badge]][js-link]
 [![Framework: Laravel][laravel-badge]][laravel-link]
@@ -26,6 +26,9 @@
 
 [os-badge]: https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=linux&logoColor=white&color=E95420
 [os-link]: https://ubuntu.com/
+
+[macos-badge]: https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=000000
+[macos-link]: https://www.apple.com/macos/
 
 [php-badge]: https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=8993be
 [php-link]: https://www.php.net
